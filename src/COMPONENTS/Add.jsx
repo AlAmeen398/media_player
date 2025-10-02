@@ -42,7 +42,7 @@ function Add({setuploadVideoStatus}) {
 
       }
       else {
-       toast.error("Something Went Wrong")
+       toast.error("Something went Wrong")
       }
 
     }
